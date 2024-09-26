@@ -1,4 +1,3 @@
-
 let names = ["Damian", "David", "John", "Steward", "Milot", "Anna", "Abdul"];
 const myName = "Damian"
 
@@ -42,5 +41,4 @@ function tellTime(){
 }
 
 tellTime();
-
-
+//this is my new change
