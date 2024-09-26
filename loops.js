@@ -26,6 +26,7 @@ randomName = Math.floor(Math.random() * 6);
 //     }
 // }
 
+
 if(hour < 12){
     greet = "Good morning, ";
 }
